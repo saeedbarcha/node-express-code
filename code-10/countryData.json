@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "United States",
+        "code": "US",
+        "continent": "North America"
+    },
+    {
+        "id": 2,
+        "name": "Canada",
+        "code": "CA",
+        "continent": "North America"
+    },
+    {
+        "id": 3,
+        "name": "United Kingdom",
+        "code": "GB",
+        "continent": "Europe"
+    },
+    {
+        "id": 4,
+        "name": "Australia",
+        "code": "AU",
+        "continent": "Oceania"
+    },
+    {
+        "id": 5,
+        "name": "New Zealand",
+        "code": "NZ",
+        "continent": "Oceania"
+    }
+]

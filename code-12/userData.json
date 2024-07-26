@@ -1,0 +1,62 @@
+[
+  {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "fatherName": "Michael Doe",
+      "gender": "Male",
+      "country": "USA",
+      "email": "john.doe@example.com",
+      "phone": "+1-555-1234",
+      "dateOfBirth": "1990-01-01",
+      "password": "123456"
+  },
+  {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "fatherName": "Robert Smith",
+      "gender": "Female",
+      "country": "Canada",
+      "email": "jane.smith@example.com",
+      "phone": "+1-555-5678",
+      "dateOfBirth": "1985-02-14",
+      "password": "123456"
+  },
+  {
+      "id": 3,
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "fatherName": "David Johnson",
+      "gender": "Female",
+      "country": "UK",
+      "email": "alice.johnson@example.com",
+      "phone": "+44-555-8765",
+      "dateOfBirth": "1992-03-23",
+      "password": "123456"
+  },
+  {
+      "id": 4,
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "fatherName": "James Brown",
+      "gender": "Male",
+      "country": "Australia",
+      "email": "bob.brown@example.com",
+      "phone": "+61-555-4321",
+      "dateOfBirth": "1988-07-07",
+      "password": "123456"
+  },
+  {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "fatherName": "Edward Davis",
+      "gender": "Male",
+      "country": "New Zealand",
+      "email": "charlie.davis@example.com",
+      "phone": "+64-555-9876",
+      "dateOfBirth": "1995-11-30",
+      "password": "123456"
+  }
+]

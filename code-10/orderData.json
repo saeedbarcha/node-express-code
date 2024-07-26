@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "productId": 3,
+        "quantity": 1,
+        "totalPrice": 699.99,
+        "orderDate": "2024-07-15",
+        "status": "Shipped"
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "productId": 1,
+        "quantity": 2,
+        "totalPrice": 51.98,
+        "orderDate": "2024-07-16",
+        "status": "Delivered"
+    },
+    {
+        "id": 3,
+        "userId": 3,
+        "productId": 5,
+        "quantity": 1,
+        "totalPrice": 149.99,
+        "orderDate": "2024-07-17",
+        "status": "Processing"
+    },
+    {
+        "id": 4,
+        "userId": 4,
+        "productId": 4,
+        "quantity": 3,
+        "totalPrice": 59.97,
+        "orderDate": "2024-07-18",
+        "status": "Cancelled"
+    },
+    {
+        "id": 5,
+        "userId": 5,
+        "productId": 2,
+        "quantity": 1,
+        "totalPrice": 79.99,
+        "orderDate": "2024-07-19",
+        "status": "Shipped"
+    }
+]
